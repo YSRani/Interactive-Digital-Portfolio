@@ -65,7 +65,7 @@ Welcome to my digital portfolio! This website highlights my *projects, skills, a
 
 Feel free to reach out via the contact form on the portfolio or connect on:
 
-- *Portfolio:* [Editkaro Portfolio](https://ysrani.github.io/Editkaro_Portfolio/)  
+- *Portfolio:* https://ysrani.github.io/Interactive-Digital-Portfolio/
 - *LinkedIn:*  https://www.linkedin.com/in/sandhya-rani-yalla-38971528a/
 - *Email:* sandhyayalla225@gmail.com  
 
